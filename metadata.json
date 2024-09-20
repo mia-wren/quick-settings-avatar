@@ -4,9 +4,9 @@
   "name": "User Avatar In Quick Settings",
   "shell-version": [
     "45",
-    "46"
+    "47"
   ],
-  "url": "https://github.com/d-go/quick-settings-avatar",
-  "uuid": "quick-settings-avatar@d-go",
-  "version": 7
+  "url": "",
+  "uuid": "quick-settings-avatar@avqs",
+  "version": 7.1
 }
