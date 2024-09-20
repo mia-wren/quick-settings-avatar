@@ -117,7 +117,7 @@ const AvatarItem = GObject.registerClass(
 
         _bindModeActions() {
             let userSettings = 'gnome-user-accounts-panel.desktop';
-            if (major >= 46) {
+            if (major >= 47) {
                 userSettings = 'gnome-users-panel.desktop';
             }
             this._settingsApp = Shell.AppSystem.get_default().lookup_app(userSettings);
